@@ -6,17 +6,18 @@
 Ltp-case说明
 ===================================
 
-Contents:
+  该文档将深入分析ltp的测试内容，着重于具体每个case的测试内容及测试方法。通过对ltp case的分析,从测试的角度去深入了解linux系统。
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :numbered: 
 
+   ltp用例列表   
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
